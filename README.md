@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a project for SIH called MARS.<br>I am looking to collaborate on projects.<br>I am currently learning DevOps
+I am looking to collaborate on projects.<br>I am currently learning DevOps
 
 
 ## 🌐 Socials:
