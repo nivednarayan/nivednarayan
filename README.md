@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nived Narayan</h1>
 <h3 align="center">DevOps Enthusiast | Cloud & Automation | Open to Collaboration</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nivednarayan&label=Profile%20views&color=0e75b6&style=flat" alt="nivednarayan" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -98,16 +94,9 @@ I enjoy turning **manual workflows into efficient automated pipelines**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivednarayan&show_icons=true&theme=dark&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivednarayan&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nivednarayan&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivednarayan&layout=compact&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nivednarayan&icon=0&color=0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivednarayan&layout=compact&theme=dark&hide_border=true" />
 </p>
