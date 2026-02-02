@@ -94,9 +94,10 @@ I enjoy turning **manual workflows into efficient automated pipelines**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivednarayan&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nivednarayan&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivednarayan&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nivednarayan&layout=compact&theme=dark" />
 </p>
+
