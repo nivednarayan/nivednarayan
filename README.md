@@ -110,7 +110,3 @@ Designed the solution architecture and containerized the full stack for a 6-memb
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nivednarayan&show_icons=true&theme=dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivednarayan&layout=compact&theme=dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nivednarayan&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-</p>
