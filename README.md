@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Cloud Engineer | B.Tech CSE (AI & DS) @ IIIT Kottayam</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nivednarayan" target="_blank">
+  <a href="https://linkedin.com/in/nived-narayan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/nivednarayan/" target="_blank">
